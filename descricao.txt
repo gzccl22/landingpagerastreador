@@ -1,0 +1,54 @@
+<titulo> Rastreador Veicular
+
+
+<1> O ST310U é um dispositivo de
+rastreamento fixo, composto
+por tecnologia GPS e
+GSM/GPRS, foi concebido
+especialmente para aplicação em veículos.
+
+<2>O módulo recebe a localização a
+partir de satélites e transmite
+estes dados para o servidor prédefinido.
+Além da função básica o
+módulo possui um
+acelerômetro. Com este sensor
+é possível identificar se o
+veículo está em movimento ou
+parado, facilitando a instalação
+e deixando a operação
+
+<3> Taxa de instalação: R$ 100,00
+Mensalidade: R$59,90. *unitário
+
+<4> Taxa de instalação: R$ 50,00
+Mensalidade: R$50,00
+* acima de 50 veículos
+
+
+<tentar encaixar> 
+Transmissão por GPRS ou SMS;
+Detector de Jammer.
+Anti-furto configurável para utilizar
+sensor de porta, ignição ou
+acelerômetro;
+Envio de posição por ângulo;
+Horímetro;
+Envio da localização de acordo com o
+tempo configurado pelo usuário ou
+pela distancia percorrida;
+Ignição física ou virtual (acelerômetro
+ou tensão da alimentação principal na
+entrada 1);
+1 saída digital (configurável);
+Evento de excesso de velocidade,
+bateria principal removida;
+Possibilidade de embarcar 200 cercas
+circulares;
+Transmissão do evento no ato do
+acionamento da entrada,
+independente a string de posição;
+Possibilidade de integração com
+antena satélital utilizando uma saída.
+
+
